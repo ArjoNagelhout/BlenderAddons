@@ -6,6 +6,4 @@ This add-on makes it super quick to create a canvas to draw on using texture pai
 
 Just click on. Add > Canvas and you can start drawing :)
 
-![Screenshot 1](screenshot_1.png)
-![Screenshot 2](screenshot_2.png)
-![Screenshot 3](screenshot_3.png)
+<img src="https://github.com/ArjoNagelhout/BlenderAddons/blob/master/screenshot_1.png?raw=true" width="300"><img src="https://github.com/ArjoNagelhout/BlenderAddons/blob/master/screenshot_2.png?raw=true" width="300"><img src="https://github.com/ArjoNagelhout/BlenderAddons/blob/master/screenshot_3.png?raw=true" width="200">
